@@ -55,18 +55,18 @@ body {
 }
 
 #box {
-  padding: 0px;
+  padding-bottom: 10px;
   border: 0;
-  width: 100%;
-  height: 200px;
+  width:  auto;
+  height: auto;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   background-color: #ADEDB5;
   box-sizing: border-box;
   border-radius: 10px;
   position: relative;
-  overflow: scroll；
 }
 
 #content{
